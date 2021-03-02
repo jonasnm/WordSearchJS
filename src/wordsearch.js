@@ -1,3 +1,4 @@
+HEI HEI HEI
 import "./wordsearch.css"
 
 class Chronometer {
